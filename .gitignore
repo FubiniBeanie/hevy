@@ -1,0 +1,21 @@
+# Python environments
+.venv
+venv
+
+# Python temporary files
+__pycache__
+.pyc
+
+# Jupyter temporary checkpoints
+.ipynb_checkpoints
+
+# API credentials
+.env
+.env.
+!.env.example
+
+# Locally downloaded data and personal workout results
+data
+
+# Generated exports
+outputs
